@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchaudio
+numpy
+speechbrain
+faiss-cpu
+scipy
+python-multipart
+nest-asyncio
+soundfile
